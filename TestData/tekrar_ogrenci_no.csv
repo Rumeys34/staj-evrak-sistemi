@@ -1,0 +1,4 @@
+﻿FullName,TcKimlikNo,Nationality,StudentNo,BirthDate,Address,Department,Ek16Year,PreviousInternshipDays,Email,Phone,HealthAidStatus
+Birinci Kişi,81111111111,T.C.,220000100,10.10.2003,"Örnek Mah., No:1",Yazılım Mühendisliği,2025-2026,0,bir@example.com,+90 555 000 00 30,Var
+İkinci Kişi,82222222222,T.C.,220000100,11.11.2003,"Örnek Mah., No:2",Yazılım Mühendisliği,2025-2026,0,iki@example.com,+90 555 000 00 31,Var
+Üçüncü Kişi,83333333333,T.C.,220000101,12.12.2003,"Örnek Mah., No:3",Yazılım Mühendisliği,2025-2026,0,uc@example.com,+90 555 000 00 32,Var

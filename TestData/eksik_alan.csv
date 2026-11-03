@@ -1,0 +1,4 @@
+﻿FullName,TcKimlikNo,Nationality,StudentNo,BirthDate,Address,Department,Ek16Year,PreviousInternshipDays,Email,Phone,HealthAidStatus
+Eksik Satir,11111111111,T.C.,220000020
+,66666666666,T.C.,220000021,10.10.2003,"Örnek Mah., No:3",Yazılım Mühendisliği,2025-2026,0,x@example.com,+90 555 000 00 20,Var
+Geçerli Kişi,77777777777,T.C.,220000022,10.10.2003,"Örnek Mah., No:4",Yazılım Mühendisliği,2025-2026,0,y@example.com,+90 555 000 00 21,Var

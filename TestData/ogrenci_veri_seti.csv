@@ -1,0 +1,6 @@
+FullName,TcKimlikNo,Nationality,StudentNo,BirthDate,Address,Department,Ek16Year,PreviousInternshipDays,Email,Phone,HealthAidStatus
+Ayşe Örnek,12345678901,T.C.,220000001,15.03.2003,"Örnek Mah., Deneme Sok., No:1, Daire:2, Merkez/Örnekşehir",Yazılım Mühendisliği,2025-2026,0,ayse.ornek@example.com,+90 555 000 00 01,Var
+Mehmet Deneme,22222222222,T.C.,220000002,02.11.2002,"Test Mah., Örnek Cad., No:7, Daire:4, Merkez/Örnekşehir",Yazılım Mühendisliği,2025-2026,10,mehmet.deneme@example.com,+90 555 000 00 02,Yok
+Zeynep Çalışkan,33333333333,T.C.,220000003,21.07.2003,"Deneme Mah., Çiçek Sok., No:12, Daire:1, Merkez/Örnekşehir",Bilgisayar Mühendisliği,2025-2026,20,zeynep.caliskan@example.com,+90 555 000 00 03,Var
+Test Yabancı,99000000001,Azerbaycan,220000004,09.05.2002,"Örnek Mah., Test Sok., No:3, Daire:5, Merkez/Örnekşehir",Yazılım Mühendisliği,2025-2026,0,test.yabanci@example.com,+90 555 000 00 04,Yok
+Can Örnekoğlu,44444444444,T.C.,220000005,30.01.2004,"Deneme Mah., Gül Sok., No:9, Daire:6, Merkez/Örnekşehir",Elektronik Mühendisliği,2025-2026,5,can.ornekoglu@example.com,+90 555 000 00 05,Var
